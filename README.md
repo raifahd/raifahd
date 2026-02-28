@@ -18,19 +18,7 @@ I'm [Rai Fahd](https://www.linkedin.com/in/rai-fahd-sultan-23074936b/). I build 
 
 I'm a Developer/Data Scientist focused on systems, apps, and intelligent solutions.
 
-I build scalable applications, train ML models, and focus on writing efficient, production-ready code.
-
-### What I Do
-
-• Engineer performance-focused systems in C++
-
-• Build full-stack web applications
- 
-• Develop cross-platform apps with Flutter
-
-• Train and optimize machine learning models
-
-• Turn messy ideas into structured, working products
+I build scalable applications in Flutter, train ML models, and focus on writing efficient, production-ready code.
 
 ### Stack
 
@@ -41,11 +29,3 @@ I build scalable applications, train ML models, and focus on writing efficient, 
 `HTML` `CSS` `JavaScript`
 
 `Machine Learning` `Model Training`
-
-### Reach Me
-
-Let’s build something serious.
-
-• LinkedIn: [[rai-fahd-sultan]](https://www.linkedin.com/in/rai-fahd-sultan-23074936b/)
-
-• Email: [fahdbusiness125@gmail.com]
