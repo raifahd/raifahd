@@ -48,4 +48,4 @@ Let’s build something serious.
 
 • LinkedIn: [[rai-fahd-sultan]](https://www.linkedin.com/in/rai-fahd-sultan-23074936b/)
 
-• Email: [email]
+• Email: [[email]](fahdbusiness125@gmail.com)
