@@ -45,5 +45,7 @@ I build scalable applications, train ML models, and focus on writing efficient, 
 ### Reach Me
 
 Let’s build something serious.
-• LinkedIn: [link]
+
+• LinkedIn: [[rai-fahd-sultan]](https://www.linkedin.com/in/rai-fahd-sultan-23074936b/)
+
 • Email: [email]
