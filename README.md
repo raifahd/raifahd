@@ -22,37 +22,27 @@ If there’s a problem, I like turning it into code.
 
 ### What I’m Working On
 
-Full-stack web applications
+• Full-stack web applications
 
-Flutter cross-platform apps
+• Flutter cross-platform apps
 
-Machine Learning model training & experimentation
+• Machine Learning model training & experimentation
 
-Performance-focused C++ systems
+• Performance-focused C++ systems
 
 ### Tech Stack
 
 Languages:
 C++ • Python • C • JavaScript • Dart
 
+Data Science:
+Model training • Data preprocessing • ML workflows
+
 Web:
 HTML • CSS • Modern JS
 
 App Development:
 Flutter
-
-Data Science:
-Model training • Data preprocessing • ML workflows
-
-### What I Care About
-
-Clean, maintainable code
-
-Performance & optimization
-
-Scalable architecture
-
-Real-world problem solving
 
 ### Reach Me
 
