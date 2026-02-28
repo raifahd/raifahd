@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Rai Fahd. I build things that work. Fast. Clean. Scalable.
+I'm [Rai Fahd](https://www.linkedin.com/in/rai-fahd-sultan-23074936b/). I build things that work. Fast. Clean. Scalable.
 
 I'm a Developer/Data Scientist focused on systems, apps, and intelligent solutions.
 
