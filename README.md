@@ -14,38 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Rai Fahd, a Software Developer focused on building scalable applications and intelligent systems.
+I'm Rai Fahd. I build things that work. Fast. Clean. Scalable.
 
-I design and build web apps, cross-platform mobile apps, and data-driven solutions.
+I'm a Developer/Data Scientist focused on systems, apps, and intelligent solutions.
 
-If there’s a problem, I like turning it into code.
+I build scalable applications, train ML models, and focus on writing efficient, production-ready code.
 
-### What I’m Working On
+### What I Do
 
-• Full-stack web applications
+Engineer performance-focused systems in C++
 
-• Flutter cross-platform apps
+Build full-stack web applications
 
-• Machine Learning model training & experimentation
+Develop cross-platform apps with Flutter
 
-• Performance-focused C++ systems
+Train and optimize machine learning models
 
-### Tech Stack
+Turn messy ideas into structured, working products
 
-Languages:
-C++ • Python • C • JavaScript • Dart
+### Stack
 
-Data Science:
-Model training • Data preprocessing • ML workflows
+`C++` `Python` `C`
+`Flutter` `Dart`
+`HTML` `CSS` `JavaScript`
+`Machine Learning` `Model Training`
 
-Web:
-HTML • CSS • Modern JS
+### Current Direction
 
-App Development:
-Flutter
+Scaling systems.
+Optimizing performance.
+Building products that don’t feel amateur.
 
 ### Reach Me
 
-LinkedIn: [your-link-here]
-
-Email: [your-email-here]
+Let’s build something serious.
+LinkedIn: [link]
+Email: [email]
