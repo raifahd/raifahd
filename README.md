@@ -22,31 +22,28 @@ I build scalable applications, train ML models, and focus on writing efficient, 
 
 ### What I Do
 
-Engineer performance-focused systems in C++
+• Engineer performance-focused systems in C++
 
-Build full-stack web applications
+• Build full-stack web applications
+ 
+• Develop cross-platform apps with Flutter
 
-Develop cross-platform apps with Flutter
+• Train and optimize machine learning models
 
-Train and optimize machine learning models
-
-Turn messy ideas into structured, working products
+• Turn messy ideas into structured, working products
 
 ### Stack
 
 `C++` `Python` `C`
+
 `Flutter` `Dart`
+
 `HTML` `CSS` `JavaScript`
+
 `Machine Learning` `Model Training`
-
-### Current Direction
-
-Scaling systems.
-Optimizing performance.
-Building products that don’t feel amateur.
 
 ### Reach Me
 
 Let’s build something serious.
-LinkedIn: [link]
-Email: [email]
+• LinkedIn: [link]
+• Email: [email]
