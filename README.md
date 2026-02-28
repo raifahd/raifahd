@@ -20,7 +20,7 @@ I design and build web apps, cross-platform mobile apps, and data-driven solutio
 
 If there’s a problem, I like turning it into code.
 
-# What I’m Working On
+### What I’m Working On
 
 Full-stack web applications
 
@@ -30,7 +30,7 @@ Machine Learning model training & experimentation
 
 Performance-focused C++ systems
 
-# Tech Stack
+### Tech Stack
 
 Languages:
 C++ • Python • C • JavaScript • Dart
@@ -44,7 +44,7 @@ Flutter
 Data Science:
 Model training • Data preprocessing • ML workflows
 
-# What I Care About
+### What I Care About
 
 Clean, maintainable code
 
@@ -54,7 +54,7 @@ Scalable architecture
 
 Real-world problem solving
 
-# Reach Me
+### Reach Me
 
 LinkedIn: [your-link-here]
 
